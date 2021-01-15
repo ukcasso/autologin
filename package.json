@@ -1,0 +1,17 @@
+{
+  "name": "autologin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "2.0.7",
+    "puppeteer": "3.3.0",
+    "sanitize-html": "2.3.0"
+  }
+}
